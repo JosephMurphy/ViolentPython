@@ -43,7 +43,7 @@ def printHistory(placesDB):
 		conn = sqlite3.connect(placesDB)
 		c = conn.cursor()
 		#query to pull back data from the history databases
-		c.execute("SELECT url, datetime(visitdate/1000000, 'unixepoch') FROM moz_places, moz_historyvisits WHERE vist_count > 0 and moz_places.id == moz_historyvisits.place_id;")
+		c.execute("SELECT url, datetime(visit_date/1000000, 'unixepoch') FROM moz_places, moz_historyvisits WHERE visit_count > 0 and moz_places.id == moz_historyvisits.place_id;")
 		print "\n[*] -- Found History --"
 		#iterate through the results
 		for row in c:
@@ -60,7 +60,7 @@ def printGoogle(placesDB):
 		conn = sqlite3.connect(placesDB)
 		c = conn.cursor()
 		#query to pull back data from the history databases
-		c.execute("SELECT url, datetime(visitdate/1000000, 'unixepoch') FROM moz_places, moz_historyvisits WHERE vist_count > 0 and moz_places.id == moz_historyvisits.place_id;")
+		c.execute("SELECT url, datetime(visit_date/1000000, 'unixepoch') FROM moz_places, moz_historyvisits WHERE visit_count > 0 and moz_places.id == moz_historyvisits.place_id;")
 	
 		print "\n[*] -- Found Google --"
 		for row in c:
