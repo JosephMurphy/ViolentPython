@@ -1,0 +1,40 @@
+[+] Source: 10.0.2.15 --> Destination: 192.168.0.1
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 192.168.0.1 --> Destination: 10.0.2.15
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 74.125.228.69
+[+] Source: Unregistered IP Address --> Mountain View, USA
+[+] Source: 74.125.228.69 --> Destination: 10.0.2.15
+[+] Source: Mountain View, USA --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 192.168.0.1
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 192.168.0.1 --> Destination: 10.0.2.15
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 74.125.228.69
+[+] Source: Unregistered IP Address --> Mountain View, USA
+[+] Source: 74.125.228.69 --> Destination: 10.0.2.15
+[+] Source: Mountain View, USA --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 192.168.0.1
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 192.168.0.1 --> Destination: 10.0.2.15
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 212.58.244.18
+[+] Source: Unregistered IP Address --> Tadworth, GBR
+[+] Source: 212.58.244.18 --> Destination: 10.0.2.15
+[+] Source: Tadworth, GBR --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 192.168.0.1
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 192.168.0.1 --> Destination: 10.0.2.15
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 192.168.0.1
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 192.168.0.1 --> Destination: 10.0.2.15
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 208.100.47.160
+[+] Source: Unregistered IP Address --> Chicago, USA
+[+] Source: 208.100.47.160 --> Destination: 10.0.2.15
+[+] Source: Chicago, USA --> Unregistered IP Address
+[+] Source: 10.0.2.15 --> Destination: 192.168.0.1
+[+] Source: Unregistered IP Address --> Unregistered IP Address
+[+] Source: 192.168.0.1 --> Destination: 10.0.2.15
+[+] Source: Unregistered IP Address --> Unregistered IP Address
